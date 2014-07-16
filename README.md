@@ -11,10 +11,10 @@ DBpedia_PageLinks_Cleaned Dataset (3.9) is used to compute PageInlink count. Mor
 If you are using this dataset please cite as:
 
 ```
-{dbpedia-InlinkCount,
+{dbpedia-graphmeasures,
   Author = {Dinesh Reddy},
-  Title = {DBpedia InlinkCount data set},
-  Location = {https://github.com/dineshreddykdp/DBpedia_PageinLinkCounts_Cleaned},
+  Title = {DBpedia GraphMeasures},
+  Location = {http://semanticmultimedia.org/node/6},
   Resource type = {dataset},
   Publisher = {Hasso Plattner Institute},
   Publication date = {July 2014},
