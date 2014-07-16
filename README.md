@@ -4,7 +4,7 @@ DBpedia_PageinLinkCounts_Cleaned
 ##Source Dataset
 
 
-DBpedia_PageLinks_Cleaned Dataset (3.9) is used to compute PageInlink count. More details about DBpedia_PageLinks_Cleaned Dataset and how it is created can be found [here](http://semanticmultimedia.org/node/6).
+DBpedia_PageLinks_Cleaned Dataset (3.9) is used to compute PageInlink count. More details about DBpedia_PageLinks_Cleaned Dataset and how it is created can be found here [DBpedia_PageLinks_Cleaned Dataset Documentation](http://semanticmultimedia.org/node/6).
 
 ##Citation
 
@@ -12,7 +12,7 @@ If you are using this dataset please cite as:
 
 ```
 {dbpedia-graphmeasures,
-  Author = {Harald Sack, Magnus Knuth, Dinesh Reddy},
+  Author = {Dinesh Reddy, Magnus Knuth, Harald Sack},
   Title = {DBpedia GraphMeasures},
   Location = {http://semanticmultimedia.org/node/6},
   Resource type = {dataset},
